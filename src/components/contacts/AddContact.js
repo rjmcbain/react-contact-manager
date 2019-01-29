@@ -77,6 +77,7 @@ class AddContact extends Component {
                     onChange={this.onChange}
                     error={errors.email}
                   />
+
                   <TextInputGroup
                     label="Phone"
                     name="phone"
