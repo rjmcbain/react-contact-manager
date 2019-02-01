@@ -1,3 +1,7 @@
+## View Project
+
+Open [https://rjmcbain.github.io/react-contact-manager/#/](https://rjmcbain.github.io/react-contact-manager/#/) to view it in the browser.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
